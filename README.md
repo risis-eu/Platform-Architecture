@@ -1,4 +1,6 @@
-platform
+RISIS Platform
 ========
 
-RISIS platform
+RISIS platform architecture
+
+check http://sms.risis.eu
