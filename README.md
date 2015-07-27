@@ -3,4 +3,4 @@ RISIS Platform
 
 RISIS platform architecture
 
-check http://sms.risis.eu
+checkout http://sms.risis.eu for more information
